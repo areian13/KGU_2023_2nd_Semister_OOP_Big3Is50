@@ -1,0 +1,6 @@
+int : id (기본키)
+String : name (프로그램명)
+String : date (요일)
+String : startTime (시작시간)
+String : endTime (종료시간)
+ArrayList<User> : members (수강회원)

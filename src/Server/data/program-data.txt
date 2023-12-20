@@ -1,0 +1,60 @@
+0 줌바댄스 월 09:00 11:00 10000 2 sdfpyj4885 areian0511
+0 줌바댄스 월 13:00 15:00 10000 5 jeondog0987 dong82821234 chj990101 hdy930405 areian0511
+0 줌바댄스 월 19:00 21:00 10000 4 1598753isk kmj9917 hwy009813 fhiw16548
+0 줌바댄스 수 09:00 11:00 10000 3 bcd921146 ninehari38 silvert19
+0 줌바댄스 수 13:00 15:00 10000 5 8hyunu8 krainy123 jimiyu66 onecar1 mingmingmon
+0 줌바댄스 수 19:00 21:00 10000 4 youngcow0 ohdoit! suhoqmdl move248
+0 줌바댄스 금 09:00 11:00 10000 5 teddy9 dokgo50 mimigod princess plum72
+0 줌바댄스 금 13:00 15:00 10000 4 Choiwoong Wsrabbit12 Iziin Hahaha
+0 줌바댄스 금 19:00 21:00 10000 3 Goyurim moonmoon0 Xxidge
+0 요가 월 10:00 12:00 12000 4 Kisy122 Roseinmy Misochu mingmingmon
+0 요가 월 15:00 17:00 12000 3 alice_smith mike_jones emily_white
+0 요가 수 10:00 12:00 12000 3 david_wang lisa_jackson robert_martin
+0 요가 수 15:00 17:00 12000 3 sophia_tan chris_brown amelia_kim
+0 요가 금 10:00 12:00 12000 3 jason_lee olivia_park kevin_kang
+0 요가 금 15:00 17:00 12000 3 natalie_oh mia_choi daniel_park
+0 싸이클 화 12:00 13:00 13000 5 areian0511 sdfpyj4885 bcd921146 ninehari38 silvert19
+0 싸이클 화 14:00 15:00 13000 6 jeondog0987 dong82821234 chj990101 hdy930405 1598753isk kmj9917
+0 싸이클 화 17:00 18:00 13000 6 chj990101 hdy930405 1598753isk kmj9917 hwy009813 fhiw16548
+0 싸이클 목 12:00 13:00 13000 6 8hyunu8 krainy123 jimiyu66 onecar1 youngcow0 ohdoit!
+0 싸이클 목 14:00 15:00 13000 4 suhoqmdl move248 youngcow0 ohdoit!
+0 싸이클 목 17:00 18:00 13000 6 teddy9 dokgo50 mimigod princess plum72 Goyurim
+0 점핑머신 화 12:00 13:00 15000 5 brian_kim ariana_kwon Kisy122 Roseinmy Misochu
+0 점핑머신 화 16:00 17:00 15000 6 alice_smith mike_jones emily_white david_wang lisa_jackson mingmingmon
+0 점핑머신 목 12:00 13:00 15000 5 robert_martin sophia_tan chris_brown amelia_kim jason_lee
+0 점핑머신 목 18:00 19:00 15000 5 olivia_park kevin_kang natalie_oh mia_choi daniel_park
+0 에어로빅 화 10:00 12:00 15000 3 brian_kim ariana_kwon apple_lover
+0 에어로빅 화 18:00 20:00 15000 4 music_guru travel_bug coffee_addict coding_ninja
+0 에어로빅 목 10:00 12:00 15000 4 bookworm21 fashionista soccer_fanatic beach_lover
+0 에어로빅 목 18:00 20:00 15000 4 gaming_guru movie_buff science_geek cooking_enthusiast
+1 PT-박승현 월 10:00 12:00 40000 1 areian0511
+1 PT-박승현 월 12:00 14:00 40000 1 mingmingmon
+1 PT-박승현 화 12:00 14:00 40000 1 8hyunu8
+1 PT-박승현 화 18:00 20:00 40000 1 onecar1
+1 PT-박승현 수 18:00 20:00 40000 1 areian0511
+1 PT-박승현 목 12:00 14:00 40000 1 silvert19
+1 PT-박승현 목 18:00 20:00 40000 1 bcd921146
+1 PT-박승현 금 12:00 14:00 40000 1 hdy930405
+1 PT-박승현 금 18:00 20:00 40000 1 dong82821234
+1 PT-김종국 화 17:00 19:00 50000 1 sdfpyj4885
+1 PT-김종국 화 13:00 15:00 50000 1 jeondog0987
+1 PT-김종국 수 13:00 15:00 50000 1 kmj9917
+1 PT-김종국 수 18:00 20:00 50000 1 ninehari38
+1 PT-김계란 화 12:00 14:00 45000 1 dokgo50
+1 PT-김계란 화 17:00 19:00 45000 1 mimigod
+1 PT-김계란 화 09:00 11:00 45000 1 Choiwoong
+1 PT-김계란 토 13:00 15:00 45000 1 Wsrabbit12
+1 PT-김계란 토 18:00 20:00 45000 1 Xxidge
+1 PT-김계란 토 09:00 11:00 45000 2 teddy9 mingmingmon
+1 PT-심으뜸 수 12:00 14:00 40000 1 Kisy122
+1 PT-심으뜸 수 17:00 19:00 40000 1 Roseinmy
+1 PT-심으뜸 수 09:00 11:00 40000 1 Misochu
+1 PT-심으뜸 일 13:00 15:00 40000 1 travel_bug
+1 PT-심으뜸 일 18:00 20:00 40000 1 coffee_addict
+1 PT-심으뜸 일 09:00 11:00 40000 1 coding_ninja
+1 PT-안다정 월 11:00 13:00 45000 1 apple_lover
+1 PT-안다정 월 16:00 18:00 45000 1 music_guru
+1 PT-안다정 월 14:00 15:00 45000 1 bookworm21
+1 PT-안다정 목 11:00 13:00 45000 1 fashionista
+1 PT-안다정 목 16:00 18:00 45000 1 soccer_fanatic
+1 PT-안다정 목 14:00 15:00 45000 1 jason_lee

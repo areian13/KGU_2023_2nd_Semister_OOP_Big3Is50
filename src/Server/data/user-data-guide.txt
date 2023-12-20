@@ -1,0 +1,9 @@
+한 줄당
+
+userType
+id // id가 기본키다. 모든 유저 판별을 id로 한다.
+password
+name
+nickname
+phone
+gender

@@ -1,0 +1,9 @@
+한 줄당
+
+string logDate
+string logTime
+string id
+int n;
+
+For(n)
+    exerciseType(유: 1, 무: 2), exerciseName, weight, count
